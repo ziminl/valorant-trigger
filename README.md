@@ -1,2 +1,9 @@
 # valorant-trigger
-ud
+ud. i m just a common student. for education only. 
+#1
+
+#4
+script doesnt excute if i move. 
+average rate : 24ms
+
+#5
